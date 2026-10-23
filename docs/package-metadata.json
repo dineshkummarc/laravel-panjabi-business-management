@@ -1,0 +1,132 @@
+[
+  {
+    "package": "drutogoti",
+    "version": "dev-main",
+    "require": {
+      "php": "^8.3",
+      "illuminate/support": "^11.0|^12.0",
+      "illuminate/database": "^11.0|^12.0",
+      "illuminate/contracts": "^11.0|^12.0",
+      "illuminate/routing": "^11.0|^12.0",
+      "illuminate/log": "^11.0|^12.0",
+      "illuminate/console": "^11.0|^12.0",
+      "illuminate/cache": "^11.0|^12.0"
+    },
+    "source": {
+      "url": "https://github.com/imranbru99/laravel-speed-optimization-drutogoti.git",
+      "type": "git",
+      "reference": "6c5b4c94bf42e350d5b06c88736dcbf2b8e199f1"
+    }
+  },
+  {
+    "package": "laravel-admin-panel",
+    "version": "dev-main",
+    "require": {
+      "php": "^8.2",
+      "illuminate/support": "^11.0|^12.0",
+      "illuminate/contracts": "^11.0|^12.0",
+      "illuminate/routing": "^11.0|^12.0",
+      "illuminate/view": "^11.0|^12.0",
+      "illuminate/database": "^11.0|^12.0",
+      "illuminate/console": "^11.0|^12.0",
+      "illuminate/http": "^11.0|^12.0",
+      "illuminate/session": "^11.0|^12.0",
+      "illuminate/auth": "^11.0|^12.0",
+      "illuminate/events": "^11.0|^12.0"
+    },
+    "source": {
+      "url": "https://github.com/imranbru99/laravel-admin-panel.git",
+      "type": "git",
+      "reference": "67305195926b7e151f8cb061a1765d23645098a1"
+    }
+  },
+  {
+    "package": "laravel-ai-catalog",
+    "version": "dev-main",
+    "require": {
+      "php": "^8.2",
+      "illuminate/console": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/database": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/http": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/queue": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/routing": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/support": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/validation": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/view": "^10.0|^11.0|^12.0|^13.0",
+      "imrandevbd/laravel-ai-hub": "^1.6"
+    },
+    "source": {
+      "url": "https://github.com/imranbru99/laravel-ai-catalog.git",
+      "type": "git",
+      "reference": "07b5783f3ec08ed61cad9c1ea3439ae9b4e15c25"
+    }
+  },
+  {
+    "package": "laravel-ai-hub",
+    "version": "dev-main",
+    "require": {
+      "php": "^8.2",
+      "illuminate/support": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/http": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/database": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/queue": "^10.0|^11.0|^12.0|^13.0"
+    },
+    "source": {
+      "url": "https://github.com/imranbru99/laravel-ai-hub.git",
+      "type": "git",
+      "reference": "5fc1bf2e13b663a3646af57b2416c1f214951c04"
+    }
+  },
+  {
+    "package": "laravel-attendance-hub",
+    "version": "dev-main",
+    "require": {
+      "php": "^8.2",
+      "illuminate/support": "^10.0|^11.0|^12.0",
+      "illuminate/database": "^10.0|^11.0|^12.0",
+      "illuminate/http": "^10.0|^11.0|^12.0",
+      "illuminate/console": "^10.0|^11.0|^12.0",
+      "illuminate/queue": "^10.0|^11.0|^12.0",
+      "illuminate/events": "^10.0|^11.0|^12.0"
+    },
+    "source": {
+      "url": "https://github.com/imranbru99/laravel-attendance-hub.git",
+      "type": "git",
+      "reference": "7bd5a7b4a9b27687e9c060a17544fe359d6ce74c"
+    }
+  },
+  {
+    "package": "laravel-unicode-pdf",
+    "version": "dev-main",
+    "require": {
+      "php": "^8.1|^8.2|^8.3|^8.4|^8.5",
+      "illuminate/support": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/view": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/filesystem": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/contracts": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/http": "^10.0|^11.0|^12.0|^13.0",
+      "ext-mbstring": "*",
+      "ext-json": "*"
+    },
+    "source": {
+      "url": "https://github.com/imranbru99/laravel-unicode-pdf.git",
+      "type": "git",
+      "reference": "bc0288d3422728a88d81280124fd193050929982"
+    }
+  },
+  {
+    "package": "laravel-universal-slug",
+    "version": "dev-main",
+    "require": {
+      "php": "^8.1|^8.2|^8.3|^8.4|^8.5",
+      "illuminate/support": "^10.0|^11.0|^12.0|^13.0",
+      "illuminate/database": "^10.0|^11.0|^12.0|^13.0",
+      "ext-mbstring": "*"
+    },
+    "source": {
+      "url": "https://github.com/imranbru99/laravel-universal-slug.git",
+      "type": "git",
+      "reference": "9fdcf1659a514e94e7ac58b17ec783e73003fb7b"
+    }
+  }
+]
